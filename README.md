@@ -1,4 +1,4 @@
 # Sample rebase vs git merge
 
-Commit 4
+Commit 3
 Branch "feat"
