@@ -1,4 +1,4 @@
 # Sample rebase vs git merge
 
-Commit 5
-Branch "dev"
+Commit 6
+Branch "main"
