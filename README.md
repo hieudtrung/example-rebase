@@ -1,7 +1,6 @@
 # Sample rebase vs git merge
 
-Commit 11
+Commit 12
+Branch "feat"
 
-Branch "main"
-
-Add "extra line 2" on branch "main"
+Add "extra line 1" on branch "feat"
