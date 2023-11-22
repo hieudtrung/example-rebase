@@ -5,4 +5,4 @@ Branch remote "main"
 
 Merge conflict resolved with commit 16 on local "main"
 
-Remove redundant lines
+Remove redundant lines. Update README now.
